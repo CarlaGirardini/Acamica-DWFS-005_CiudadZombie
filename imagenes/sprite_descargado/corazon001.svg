@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458332 26.458334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="corazon001.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4531">
+      <rect
+         style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4533"
+         width="162.52975"
+         height="146.65475"
+         x="22.678572"
+         y="31.660704" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4537">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.62529755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 55.474752,32.641484 H 83.336998 V 45.992123 H 97.26812 v 14.511579 h 14.80182 V 46.282374 h 13.93112 V 32.061045 h 28.15247 v 14.511579 h 14.22136 v 13.35064 h 14.22135 v 42.954296 h -13.64089 v 13.64089 h -14.51158 v 15.09208 h -13.35066 v 13.35064 h -14.80182 v 14.51158 h -14.22135 v 13.93114 H 97.26812 V 158.89231 H 83.91746 v -13.3507 H 69.405874 V 131.03003 H 54.89429 V 117.09889 H 41.833862 V 102.58731 H 27.322277 V 60.503702 H 41.543631 V 46.282374 h 13.931121 z"
+         id="path4539"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="69.72695"
+     inkscape:cy="52.054396"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54165)">
+    <image
+       sodipodi:absref="C:\Users\carlu\Documents\Acamica\Proyectos\005-Ciudad_Zombie\imagenes\sprite_descargado\corazon.jpg"
+       xlink:href="corazon.jpg"
+       transform="matrix(0.17039775,0,0,0.17039775,-4.6556548,266.26354)"
+       clip-path="url(#clipPath4537)"
+       width="317.5"
+       height="232.83333"
+       preserveAspectRatio="none"
+       id="image4526"
+       x="-53.75"
+       y="32.083336" />
+  </g>
+</svg>
